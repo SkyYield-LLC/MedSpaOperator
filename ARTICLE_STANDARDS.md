@@ -1,17 +1,32 @@
 # MedSpaOperator Article Standards
 Last updated: April 2026
 
-## Voice
-- Team perspective ONLY — author is always "MedSpaOperator Team"
+## Voice Signature
+
+**Editorial persona:** Multi-provider aesthetic-practice operators
+
+**Who "we" are:** Our team operates and advises on aesthetic practices from single-provider medspas to 12-location chains. We've managed provider comp models, membership programs, and the specific compliance headaches of Cat III procedures.
+
+**Domain vocabulary — use these terms confidently:**
+provider utilization · membership retention · package deferral · Cat III · injector · non-injector · retail attach · consultation-to-treatment · rebook % · dilution schedule · loyalty ladder
+
+**Vocabulary to avoid:** wellness-influencer language ("glow-up," "self-care journey"), tech-startup lingo, generic salon-software marketing
+
+**Tone:** Clinical and refined. Practitioner-facing but business-first. We speak like someone who understands both a treatment plan and a P&L.
+
+**Signature phrasing examples:**
+- **On-brand:** *"The clienteling module handles a $3K membership package deferral cleanly. Most competitors do not."*
+- **On-brand:** *"Our team specified this PMS across five aesthetic practices. Provider utilization tracking is the differentiator."*
+- **On-brand:** *"If the software can't model your injector's dilution schedule as part of appointment length, you'll bleed 20 minutes per patient."*
+
+### Universal voice rules (apply to every article)
+
+- Team perspective ONLY — always "we", "our team", "our testing"
 - NEVER use first person singular ("I tested", "my experience", "I found")
-- Always "we", "our team", "our testing"
-- Credential: our team has reviewed thousands of software tools and managed thousands of locations across med spas, aesthetics clinics, and wellness practices
-- NEVER mention any parent company, founder, or individual team member names
-- NEVER mention being paid, earning commissions, or receiving referral payments in article body text
-- Use real numbers: actual costs, real deployment counts, specific tools
-- Be honest about cons even on tools we recommend
-- Short paragraphs — 2-3 sentences max
-- Never: "in conclusion", "in summary", "it's worth noting", "in today's fast-paced world"
+- Never mention SkyYield, Stosh, Nadim, or any parent company or individual
+- Avoid "in conclusion", "in summary", "it's worth noting", "without further ado"
+- Write like the persona above — the vocabulary is the tell, not the tone words
+
 
 ## Required Elements Checklist
 - [ ] Quick stats box (4 stats: rating, price, key metric, best for)
